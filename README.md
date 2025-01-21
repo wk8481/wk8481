@@ -38,7 +38,8 @@ Here are some of my favorite projects:
 - [**LLM-Based Chatbot**](https://github.com/wk8481/llm-chatbot): A conversational agent powered by large language models, capable of engaging in natural and meaningful conversations.
 - [**Deep Learning Image Classifier**](https://github.com/wk8481/image-classifier): A deep learning model built with TensorFlow for classifying images into predefined categories.
 - [**Real-Time Prediction System**](https://github.com/wk8481/prediction-system): A FastAPI-powered application deployed on Azure for providing real-time predictions based on user input.
-- [**PillGate**](https://github.com/wk8481/PillGate): A medication reminder system using Java, C, and Arduino, featuring weight sensor integration to help elderly users manage medications and allow caregivers to monitor adherence.  
+- [**PillGate**](https://github.com/wk8481/PillGate): A medication reminder system using Java, C, and Arduino, featuring weight sensor integration to help elderly users manage medications and allow caregivers to monitor adherence.
+- [**MineralFlow**](https://github.com/wk8481/MineralFlowBackend): Which optimizes Landside and Warehouse operations for mineral processing. It uses Spring Boot, Hexagonal Architecture, RabbitMQ, Keycloak, React, MySQL, and microservices. Key features include truck appointment scheduling, inventory management, and order fulfillment, ensuring efficient and secure operations.
 
 Let me know if it works!
 ## 📫 Contact Me
