@@ -39,6 +39,7 @@ Here are some of my favorite projects:
 - [**Deep Learning Image Classifier**](https://github.com/wk8481/EmotionCNNPredictor): A deep learning model built with Pytorch for classifying images into predefined categories.
 - [**PillGate**](https://github.com/wk8481/PillGate): A medication reminder system using Java, C, and Arduino, featuring weight sensor integration to help elderly users manage medications and allow caregivers to monitor adherence.
 - [**MineralFlow**](https://github.com/wk8481/MineralFlowBackend): Which optimizes Landside and Warehouse operations for mineral processing. It uses Spring Boot, Hexagonal Architecture, RabbitMQ, Keycloak, React, MySQL, and microservices. Key features include truck appointment scheduling, inventory management, and order fulfillment, ensuring efficient and secure operations.
+- [**Phygital App**](https://github.com/wk8481/PhygitalApp): An application designed to engage youth in elections by creating an interactive questionnaire aimed at increasing interest and participation. The app integrates both physical and digital experiences, fostering civic engagement and captivating users to motivate their involvement in the electoral process.
 
 Let me know if it works!
 ## 📫 Contact Me
