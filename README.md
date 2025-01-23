@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 - 👯 I’m looking to collaborate on: AI and DevOps projects, cloud computing, and cybersecurity endeavors.
 - 🤔 I’m looking for help with: Cloud-based deployment and optimization techniques.
 - 💬 Ask me about: AI tools, cloud computing, software development, and project management.
-- 📫 How to reach me: williamkasasa26@gmail.com | [LinkedIn](https://www.linkedin.com/in/william-kasasa-5014a7166/)
+- 📫 How to reach me: [Email](williamkasasa26@gmail.com) | [LinkedIn](https://www.linkedin.com/in/william-kasasa-5014a7166/)
 - ⚡ Fun fact: I practice Taekwondo, love rock climbing, and I am fluent in English, French, and intermediate in Japanese and Dutch.
 
 ## 🛠️ Technologies & Tools
